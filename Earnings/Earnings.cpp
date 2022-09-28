@@ -45,4 +45,7 @@ int main()
 		//Earnings: $
 	cout << "Earnings: $" << earnings << endl;
 	return 0;
+	
+	//hi
+
 }
